@@ -1,2 +1,7 @@
 # AbanoubGorg.github.io
-AbanoubGorg.github.io/portfolio
+Data analyst
+### Education
+
+### Work Experaince
+
+### projects
