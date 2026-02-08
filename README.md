@@ -55,3 +55,11 @@ Welcome to my data analyst portfolio. I specialize in transforming raw data into
 - **Communication:** Effective presentation of complex data insights to stakeholders and team members
 - **Presntation Skills** Delivering clear, engaging presentations that translate complex data insights into actionable information for both technical and non-technical audiences.
 - **TeamWork** Collaborating effectively within cross-functional teams, sharing knowledge, and contributing to collective goals to deliver high-quality data-driven solutions.
+
+## Contact:
+### E-mail:
+- apanoopg@gmail.com
+### Phone:
+- 01226876023
+### Socail mediea:
+- www.linkedin.com/in/apanoub-goorg-24a64b31a
