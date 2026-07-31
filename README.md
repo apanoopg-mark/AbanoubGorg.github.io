@@ -1,6 +1,6 @@
-# Data Analyst Portfolio
+# Data engineer Portfolio
 
-Welcome to my data analyst portfolio. I specialize in transforming raw data into actionable insights through effective analysis, visualization, and reporting. My goal is to help organizations make data-driven decisions that enhance performance and growth.
+Welcome to my data engineer portfolio. I specialize in transforming raw data into actionable insights through effective analysis, visualization, and reporting. My goal is to help organizations make data-driven decisions that enhance performance and growth.
 
 ---
 
