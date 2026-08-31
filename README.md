@@ -23,7 +23,7 @@ Welcome to my Data Engineering portfolio. I specialize in designing, building, a
   - Automated data orchestration and loaded processed datasets directly into Looker Studio for live executive KPI tracking.
 
 ### Customer Churn Analysis
-* **Stack:**Excel, PowerBi, python 
+* **Stack:** Excel, PowerBi, python 
 * **Core Contribution:**
 - Conducted detailed analysis of customer behavior using Excel pivot tables and Power BI dashboards.
 - Cleaned and transformed large datasets with Python (pandas) and SQL.
@@ -32,7 +32,7 @@ Welcome to my Data Engineering portfolio. I specialize in designing, building, a
 
 
 ### E-Commerce Report
-* **Stack:**Excel, PowerBi 
+* **Stack:** Excel, PowerBi 
 * **Core Contribution:**
 - Developed an interactive Power BI dashboard tracking key sales metrics and trends.
 - Implemented advanced DAX calculations for dynamic reporting and data segmentation.
@@ -42,7 +42,7 @@ Welcome to my Data Engineering portfolio. I specialize in designing, building, a
 
 
 ### Atlas Labs Dashboard
-* **Stack:**Excel, PowerBi ,DAX
+* **Stack:** Excel, PowerBi ,DAX
 * * **Core Contribution:**
 - Developed an interactive Power BI dashboard tracking key sales metrics and trends.
 - Implemented advanced DAX calculations for dynamic reporting and data segmentation.
@@ -51,14 +51,14 @@ Welcome to my Data Engineering portfolio. I specialize in designing, building, a
 
 
 ### Data Science Salaries
-* **Stack:**Panadas ,NumPY , Skcit Learn 
+* **Stack:** Panadas ,NumPY , Skcit Learn 
 - Cleaned the dataset by handling missing values and duplicates
 - Performed outlier detection and treatment to improve data reliability
 - Prepared structured data ready for analysis and visualization
 
 
 ### SQL Company project
-* **Stack:**SQL Server
+* **Stack:** SQL Server
 * **Core Contribution:**
 - Relational Schema & Structure: Features a relational database design for managing core organizational entities—including branches, departments, managers, and employees—with foreign key constraints to enforce referential integrity across all relationships.
 - Strict Data Integrity & Constraints: Enforces custom CHECK constraints to validate critical data formats, including standardized email address patterns, strict 11-digit numeric phone numbers, and restricted job roles.
