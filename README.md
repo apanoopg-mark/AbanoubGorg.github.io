@@ -43,7 +43,7 @@ Welcome to my Data Engineering portfolio. I specialize in designing, building, a
 
 ### Atlas Labs Dashboard
 * **Stack:** Excel, PowerBi ,DAX
-* * **Core Contribution:**
+* **Core Contribution:**
 - Developed an interactive Power BI dashboard tracking key sales metrics and trends.
 - Implemented advanced DAX calculations for dynamic reporting and data segmentation.
 - Automated data refresh processes to ensure up-to-date insights for stakeholders.
